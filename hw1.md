@@ -30,7 +30,6 @@ The first biggest mistake you could make while tracking tasks is to ignore an is
 4.1 List five characteristics of good requirements.  
 Clear, unambiguous, consistent, prioritized, and verifiable are 5 characteristics of good requirements.  
 
-
 4.3 list the audience-oriented categories for each requirement. Are there requirements in each category? [If not, state why not…]  
 a. Business  
 b. User and functional  
