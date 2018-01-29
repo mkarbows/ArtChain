@@ -12,12 +12,13 @@ Maintenance is when bugs are fixed, and when additions, enhancements and future 
 Wrap-up involves evaluating the project's history to determine what went right and wrong in order to avoid the bad things and repeat the good things in the future.
 
 2.4  
+Did it!!  
 
 2.5 What does JBGE stand for and what does it mean?  
 JBGE stands for Just Barely Good Enough, meaning you basically shouldn't write any more code documentation or comments than necessary.  
 
 3.2 Use critical path methods to find the total expected time from the project's start for each task's completion. Find the critical path. What are the tasks on the critical path? What is the total expected duration of the project in working days?  
-
+The critical path is G -> D -> E -> M -> Q. The total expected length for the project is 32 working days.  
 
 3.4 Build a Gantt chart for the network you drew in Exercise 3. [Yes, I know, you weren't assigned that one — however, when you do Exercise 2 you should have enough information for this one.] Start on Wednesday, January 1, 2020, and don't work on weekends or the following holidays: New Year's Day, Martin Luther King Day, and President's Day.  
 
